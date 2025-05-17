@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>site para projeto do alura </title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            margin: 0;
+
+            padding: 0;
+
+            background-color: #f4f4f4;
+
+            color: #333;
+
+        }
+
+        header {
+
+            background-color: #333;
+
+            color: white;
+
+            padding: 20px;
+
+            text-align: center;
+
+        }
+
+        section {
+
+            padding: 20px;
+
+        }
+
+        .projetos {
+
+            background-color: #fff;
+
+            padding: 15px;
+
+            margin-bottom: 10px;
+
+            border-radius: 5px;
+
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+
+        }
+
+        footer {
+
+            text-align: center;
+
+            background-color: #333;
+
+            color: white;
+
+            padding: 10px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>Projetos e ideias </h1>
+
+    <p>Desenvolvedor: Rian de Olievira</p>
+
+</header>
+
+<section>
+
+    <h2>Sobre Mim</h2>
+
+    <p> Sou um estudante do ensino médio que pretende cursar programação.</p>
+
+</section>
+
+<section>
+
+    <h2>Projetos</h2>
+
+    <div class="projetos">
+
+        <h3>Site para localização e anuncios</h3>
+
+        <p>Um site para 
+
+Ajudar aqueles que precisam com localização de ONGs e locais que possam proporcionar ajuda aos mesmo.</p>
+
+    </div>
+
+    <div class="projetos">
+
+        <h3>site para facilitar o acesso de ajuda</h3>
+
+        <p>criar um site que possa alertar onde e quando estão doações.</p>
+
+    </div>
+
+</section>
+
+<section>
+
+    <h2>Contato</h2>
+
+    <p>Email: rianprolike@gmail.com
+
+    
+
+</section>
+
+<footer>
+
+    <p>&copy; 2025 Rian de Olievira</p>
+
+</footer>
+
+</body>
+
+</html>
